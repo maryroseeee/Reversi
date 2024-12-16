@@ -1,0 +1,6 @@
+Valid move checked on (0, 0, 3)
+Valid move checked on (3, 0, 0)
+Valid move checked on (-3, 3, 3)
+Valid move checked on (3, 3, -3)
+Valid move checked on (-3, 6, 0)
+Valid move checked on (0, 6, -3)
